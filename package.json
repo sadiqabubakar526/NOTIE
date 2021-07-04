@@ -1,0 +1,45 @@
+{
+  "name": "notie📖",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "bcrypt": "^5.0.0",
+    "cloudinary": "^1.23.0",
+    "clsx": "^1.1.1",
+    "cookie": "^0.4.1",
+    "date-fns": "^2.16.1",
+    "formik": "^2.1.7",
+    "formik-material-ui": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.7",
+    "mongoose-unique-validator": "^2.0.3",
+    "next": "9.5.3",
+    "prop-types": "^15.7.2",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "swr": "^0.3.5",
+    "uuid": "^8.3.1",
+    "validator": "^13.1.17",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-plugin-import": "^2.21.2",
+    "eslint-plugin-jsx-a11y": "^6.3.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.20.0",
+    "eslint-plugin-react-hooks": "^4.0.0"
+  }
+}
